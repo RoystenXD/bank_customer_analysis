@@ -13,7 +13,7 @@ Insights:
 The strongest positive correlation occur among "Bank Deposits" with "Checking Accounts", "Saving Accounts" and "Foreign Currency Account" indicating that customers who maintain high balances in one account type often hold substantial amount/funds across other accounts as well.
 
 Tools used:
--Python
--MySQL
--Jupyter Notebook
--PowerBI
+Python
+MySQL
+Jupyter Notebook
+PowerBI
